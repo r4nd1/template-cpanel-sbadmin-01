@@ -1,5 +1,7 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/)
 
+<img src="https://raw.githubusercontent.com/r4nd1/template-cpanel-sbadmin-v1/master/demo-img/SB%20Admin%20Example.png" with="900">
+
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
